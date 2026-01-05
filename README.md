@@ -17,12 +17,8 @@ The goal is to test and implement various gameplay ideas, systems, and interacti
 
 ## 📄 Notes
 
-- This project is intended for **learning and experimentation**.
-- It demonstrates your ability to:
-  - Design reusable systems
-  - Implement different gameplay mechanics
-  - Debug and iterate game ideas
-- No final game is included — this is purely a development environment.
+- This project is intended for **learning and experimentation**.- 
+- No final game is included - this is purely a development environment.
 
 ## 🔮 Future Improvements
 
