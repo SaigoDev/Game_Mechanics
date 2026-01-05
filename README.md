@@ -1,4 +1,4 @@
-# 📌 Unity Game Mechanics Prototype
+# 📌 Unity Game Mechanics Prototype (*Work in progress*)
 
 This Unity project is designed as a **playground for experimenting with mechanics from different games**.  
 The goal is to test and implement various gameplay ideas, systems, and interactions in a controlled environment.
